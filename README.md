@@ -2,12 +2,16 @@
 
 An Arduino-based autonomous robot designed to detect fire using flame sensors and respond with a water spraying mechanism.
 
+## Project Overview
+
+This academic team project focuses on developing a robotic system that detects fire using infrared flame sensors and moves toward the detected fire source. A water pump and servo motor are used to direct water toward the target.
+
 ## Features
 - Fire detection using IR flame sensors.
 - Autonomous movement based on sensor readings.
 - Motor control using L298N motor driver.
 - Servo-controlled water direction.
-- Water pump-based fire extinguishing mechanism.
+- Water pump-based extinguishing mechanism.
 - Custom 3D-printed robot chassis.
 
 ## Hardware Components
@@ -28,8 +32,16 @@ An Arduino-based autonomous robot designed to detect fire using flame sensors an
 - Robotics
 
 ## Project Documentation
-The project presentation includes the system architecture, circuit diagram, hardware components, working principle, development stages and challenges encountered.
+
+The project documentation includes:
+- Hardware components and circuit diagram.
+- System working principle.
+- Development stages.
+- Technical challenges and solutions.
+- Test and performance information.
+
+**Documentation:** `Project-Documentation.pdf`
 
 ## Türkçe Açıklama
 
-Arduino tabanlı yangın söndürme robotu, IR alev sensörleri aracılığıyla yangını algılamak ve su pompası yardımıyla müdahale etmek amacıyla geliştirilen akademik bir robotik projedir. Sistem; sensörler, motorlar ve servo kontrollü su püskürtme mekanizmasından oluşmaktadır.
+Arduino Tabanlı Yangın Söndüren Robot Araba, kızılötesi alev sensörleriyle yangını algılayabilen ve su pompası yardımıyla müdahale edebilen otonom bir robotik sistemdir. Proje kapsamında Arduino UNO, motor sürücü, servo motor ve çeşitli elektronik bileşenler kullanılmıştır. Çalışma, akademik bir ekip projesi olarak gerçekleştirilmiştir.
